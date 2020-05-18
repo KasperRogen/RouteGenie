@@ -1,0 +1,16 @@
+(
+  way[highway=path](around:500,57.016701,9.981820);
+  way[highway=cycleway](around:500,57.016701,9.981820);
+  way[cycleway=lane](around:500,57.016701,9.981820);
+  way[cycleway=track](around:500,57.016701,9.981820);
+  way[ highway=footway](around:500,57.016701,9.981820);
+  way[bicycle=yes](around:500,57.016701,9.981820);
+  way[bicycle=designated](around:500,57.016701,9.981820);
+  way[bicycle=official](around:500,57.016701,9.981820);
+  way[bicycle=official](around:500,57.016701,9.981820);
+  way[highway=residential](around:500,57.016701,9.981820);
+  way[highway=service](around:500,57.016701,9.981820);
+  way[highway=tertiary](around:500,57.016701,9.981820);
+);
+(._;>;);
+out;
